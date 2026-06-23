@@ -1,0 +1,14 @@
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.exe
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.deps.json
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.dll
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\bin\Debug\net8.0\SingletonPatternExample.pdb
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.dll
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\refint\SingletonPatternExample.dll
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.pdb
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\cmagh\Downloads\Cognizant\SingletonPatternExample\obj\Debug\net8.0\ref\SingletonPatternExample.dll
